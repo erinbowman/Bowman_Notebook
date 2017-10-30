@@ -7,17 +7,17 @@ tags: [coral, zooxanthellae, count, protocol, list, steps]
 ---
 # Protocol for Zooxanthellae Count of Adult Corals
 ### Lab Equipment
-*Water Pick
-*100mL graduated cylinder
-*15mL centrifuge tube
-*5mL centrifuge tube
-*Centrifuge
-*Oven (for chlorophyll content)
-*Pipette and bulb
-*Vortex Mixer
-*Haemocytometer and cover slip
-*Compound microscope
-*Click counter
+* Water Pick
+* 100mL graduated cylinder
+* 15mL centrifuge tube
+* 5mL centrifuge tube
+* Centrifuge
+* Oven (for chlorophyll content)
+* Pipette and bulb
+* Vortex Mixer
+* Haemocytometer and cover slip
+* Compound microscope
+* Click counter
 
 **Prodcedure:**
 
