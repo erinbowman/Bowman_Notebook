@@ -22,11 +22,11 @@ tags: [coral, zooxanthellae, count, protocol, list, steps]
 #### Prodcedure:
 
 **Part 1: Remove tissue from coral skeleton:**
-Use water pick loaded with seawater to blast the tissue and mucus from the skeleton of the coral in a container or plastic bag
-Slowly move the water pick at a 45° angle to the coral for best tissue removal
-Collect blastate water in the container/bag so that end volume may be recorded
-Place clean skeleton in an oven for drying (necessary for determining surface area of the skeleton)
-Pour the blastate into a 100mL graduated cylinder; also include the blastate left in the tube of the water pick
+Use water pick loaded with seawater to blast the tissue and mucus from the skeleton of the coral in a container or plastic bag  
+Slowly move the water pick at a 45° angle to the coral for best tissue removal  
+Collect blastate water in the container/bag so that end volume may be recorded  
+Place clean skeleton in an oven for drying (necessary for determining surface area of the skeleton)  
+Pour the blastate into a 100mL graduated cylinder; also include the blastate left in the tube of the water pick  
 Record volume of blastate collected
 
 **Part 2: Separation of zooxanthellae from coral tissue**
