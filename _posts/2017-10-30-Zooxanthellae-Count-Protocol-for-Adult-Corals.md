@@ -19,7 +19,7 @@ tags: [coral, zooxanthellae, count, protocol, list, steps]
 * Compound microscope
 * Click counter
 
-####Prodcedure:
+#### Prodcedure:
 
 **Part 1: Remove tissue from coral skeleton:**
 Use water pick loaded with seawater to blast the tissue and mucus from the skeleton of the coral in a container or plastic bag
