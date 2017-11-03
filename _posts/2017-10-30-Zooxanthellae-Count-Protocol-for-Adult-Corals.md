@@ -37,7 +37,7 @@ Zooxanthellae pellet at base of centrifuge tube should be solidified, if it brok
 Remove remaining supernatant ensuring not to disturb the zooxanthellae pellet  
 Place 5mL centrifuge tube containing zooxanthellae pellet aside for chlorophyll concentration analysis (chlorophyll content of zooxanthellae can be obtained using this protocol ->)  
 
-**Part 3: Counting zooxanthellae**  
+**Part 3: Counting zooxanthellae**
 In 15mL centrifuge tube containing zooxanthellae pellet, add 1mL of filtered seawater to re-suspend the pellet  
 Mix on vortex mixer while tapping the base of the tube  
 Place cover slip on haemocytometer and add one drop of zooxanthellae suspension from 15mL centrifuge tube to either side  
