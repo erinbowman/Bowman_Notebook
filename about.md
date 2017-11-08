@@ -8,7 +8,7 @@ I am a marine biology undergraduate at the University of Rhode Island in the Put
 
 For more information about the Putnam Laboratory:
 
-www.putnamlab.com
+[www.putnamlab.com](www.putnamlab.com)
 
 ### Contact me
 
