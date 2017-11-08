@@ -4,14 +4,12 @@ title: About
 permalink: /about/
 ---
 
-I am an integrative marine eco-physiologist. I strive to understand how the immediate abiotic environment and biotic interactions drive organism phenotype,  ecological patterning, and evolutionary processess through the interaction of symbiosis, genetics, and epigenetics. 
+I am a marine biology undergraduate at the University of Rhode Island in the Putnam Laboratory. Marine ecology and coral reef ecology are the main topics of my interest and research.
 
-I am dedicated to open, rigorous, and reproducible experiments and analyses.
+For more information about the Putnam Laboratory:
 
-### More Information
-
-wwww.hollieputnam.com
+www.hollieputnam.com
 
 ### Contact me
 
-[hollieputnam@gmail.com](mailto:hollieputnam@gmail.com)
+[erinbowman48m@gmail.com](mailto:erinbowman48@gmail.com)
