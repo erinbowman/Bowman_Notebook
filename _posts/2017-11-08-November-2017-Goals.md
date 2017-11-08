@@ -7,7 +7,7 @@ tags: [November, 2017, goals]
 ---
 # November 2017 Goals
 
-1) R Tutorials  
-2) Customize GitHub Site  
-3) Zoox Counts  
-4) Add protocol links to current protocols  
+* R Tutorials  
+* Customize GitHub Site  
+* Zoox Counts  
+* Add protocol links to current protocols  
