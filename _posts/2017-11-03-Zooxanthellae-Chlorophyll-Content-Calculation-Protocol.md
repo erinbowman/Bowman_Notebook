@@ -44,4 +44,4 @@ The volume of blastate was recorded during the aforementioned adult coral zooxan
 The volume of sub-sample is the volume of the centrifuge tube (5mL)  
 This calculation can be done for solely chlorophyll a, solely cholrophyll c2 or for the sum of the two  
 µg can then be divided by the number of zooxanthellae calculated in the previous protocol (as long as it is from the same sample) to give µg chlorophyll cell-1, converted to ph chlorophyll cell-1 (so the number is not as small) and divided by the surface area to give µg chlorophyll cm-2  
-Test
+
