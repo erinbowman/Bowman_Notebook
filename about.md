@@ -12,4 +12,4 @@ For more information about the Putnam Laboratory:
 
 ### Contact me
 
-[erinbowman48m@gmail.com](mailto:erinbowman48@gmail.com)
+[erinbowman48@gmail.com](mailto:erinbowman48@gmail.com)
