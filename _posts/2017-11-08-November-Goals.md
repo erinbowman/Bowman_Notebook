@@ -6,7 +6,7 @@ categories: Goals
 tags: [goals, november, 2017]
 ---
 # November 2017 Goals
-1) R Tutorials
-2) Customize GitHub Page
-3) Zoox counts
-4) Protocols
+1) R Tutorials  
+2) Customize GitHub Page  
+3) Zoox counts  
+4) Protocols  
