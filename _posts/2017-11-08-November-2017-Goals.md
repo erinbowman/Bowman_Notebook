@@ -6,8 +6,10 @@ tags:
   - November
   - 2017
   - goals
-title: "November 2017 Goals"
+title: "November Goals"
 --- 
 # November 2017 Goals
 * R Tutorial
-* 
+* Lab Presentation
+* Customize GitHub
+* Zoox Counts
