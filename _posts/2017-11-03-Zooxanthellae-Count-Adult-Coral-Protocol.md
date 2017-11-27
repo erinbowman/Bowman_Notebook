@@ -5,7 +5,7 @@ date: '2017-10-30'
 categories: (Protocols)
 tags: [coral, zooxanthellae, count, protocol, list, steps]
 ---
-# Protocol for Zooxanthellae Count of Adult Corals
+# This is the step by step protocol for counting the zooxanthellae in an adult coral sample
 ### Lab Equipment
 * Water Pick
 * 100mL graduated cylinder
