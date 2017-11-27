@@ -5,7 +5,7 @@ date: '2017-11-01'
 categories: Protocols  
 tags: [corals, larval, zooxanthellae, count, steps, protocol]  
 ---
-# Protocol for Zooxanthellae Counts of Larval Corals  
+# This is the step by step protocol for counting zooxanthellae in a larval coral sample  
 ### Lab Equipment  
 * Pellet Pestle  
 * 15mL centrifuge tube  
