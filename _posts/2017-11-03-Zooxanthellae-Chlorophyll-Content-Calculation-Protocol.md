@@ -5,7 +5,7 @@ date: '2017-11-03'
 categories: Protocols
 tags: [corals, zooxanthellae, chlorophyll, count, calculation, steps, protocol]
 ---
-# Protocol for Calculation of Chlorophyll Content of Zooxanthellae
+# This is the step by step protocol for cacluating the chlorophyll content of zooxanthellae from coral 
 ### Lab Equipment
 * Spectrophotometer with cuvettes
 * 5mL micropipette and tips
