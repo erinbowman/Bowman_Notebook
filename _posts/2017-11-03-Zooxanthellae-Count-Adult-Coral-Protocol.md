@@ -40,7 +40,8 @@ Place 5mL centrifuge tube containing zooxanthellae pellet aside for chlorophyll 
 **Part 3: Counting zooxanthellae**  
 In 15mL centrifuge tube containing zooxanthellae pellet, add 1mL of filtered seawater to re-suspend the pellet  
 Mix on vortex mixer while tapping the base of the tube  
-Place cover slip on haemocytometer and add one drop of zooxanthellae suspension from 15mL centrifuge tube to either side  
+Flush pipette a few times with sample  
+Place cover slip on haemocytometer and add one drop of zooxanthellae suspension from 15mL centrifuge tube to either side (flush pipette between drops)  
 Observe the haemocytometer under the compound microscope at 4x magnification  
 On either side of the central well of the haemocytometer, locate grid of 9 large squares (1mm)  
 The three large squares on the right side and the three large squares on the left side that make up 6 of the 9 large squares each contains 16 medium sized squares (0.02cm)  
