@@ -35,7 +35,7 @@ Centrifuge the blastate at high speed for two minutes
 Decant the supernatant of coral tissue from both tubes and discard  
 Zooxanthellae pellet at base of centrifuge tube should be solidified, if it broke away when discarding supernatant, re-spin in centrifuge  
 Remove remaining supernatant ensuring not to disturb the zooxanthellae pellet  
-Place 5mL centrifuge tube containing zooxanthellae pellet aside for chlorophyll concentration analysis (chlorophyll content of zooxanthellae can be obtained using this protocol ->)  
+Place 5mL centrifuge tube containing zooxanthellae pellet aside for chlorophyll concentration analysis (chlorophyll content of zooxanthellae can be obtained using this protocol -> Bowman_Notebook/_posts/2017-11-03-Zooxanthellae-Chlorophyll-Content-Calculation-Protocol.md  
 
 **Part 3: Counting zooxanthellae**  
 In 15mL centrifuge tube containing zooxanthellae pellet, add 1mL of filtered seawater to re-suspend the pellet  
