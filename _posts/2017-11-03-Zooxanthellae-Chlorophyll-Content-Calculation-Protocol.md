@@ -17,7 +17,7 @@ tags: [corals, zooxanthellae, chlorophyll, count, calculation, steps, protocol]
 #### Procedure:
 
 **Part 1: Tissue Removal and Separation of Zooxanthellae**  
-These steps were completed in the protocol for adult coral zooxanthellae counts (->)
+These steps were completed in the protocol for adult coral zooxanthellae counts (->Bowman_Notebook/_posts/2017-11-03-Zooxanthellae-Count-Adult-Coral-Protocol.md)
 
 **Part 2: Chlorophyll Extraction (to be completed in indirect light)**  
 Add 5mL of pure acetone to 5mL centrifuge tubes containing zooxanthellae pellet  
