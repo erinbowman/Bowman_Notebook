@@ -29,7 +29,7 @@ Remove remaining supernatant ensuring not to disturb the zooxanthellae pellet
 
 **Part 3: Counting zooxanthellae**  
 Resuspend the pellet in 200µL of filtered seawater  
-Mix on vortex mixer while tapping the base of the tube
+Mix on vortex mixer while tapping the base of the tube  
 Flush pipette a few times with sample  
 Place cover slip on haemocytometer and add one drop of zooxanthellae suspension from 15mL centrifuge tube to either side (flush pipette between drops)  
 Observe the haemocytometer under the compound microscope at 4x magnification  
